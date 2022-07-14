@@ -88,7 +88,7 @@ const Wrapper = styled.div`
     @media (max-width: 450px) {
       transform: scale(0.85);
       max-width: 100%;
-      margin-top: 500px;
+      margin-top: 550px;
       margin-left: auto;
       margin-right: auto;
     }
