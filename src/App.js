@@ -36,12 +36,7 @@ export default function App() {
         </Menu>
         <h1>Analyze your data</h1>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt.
+          With FATALIS DASHBOARD© track, analyze, and display KPIs, metrics, and critical data points. FATALIS DASHBOARD© empowers both technical and non-technical users to understand and leverage business intelligence to make more informed decisions. FATALIS DASHBOARD©'s users actively participate in the analytics process by compiling data and visualizing trends or occurrences, and uncovering an objective view of performance metrics that can be immediately understood.
         </p>
         <button>
           <img src={IconLaptop} alt="Download" />
