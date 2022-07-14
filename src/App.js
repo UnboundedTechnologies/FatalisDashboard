@@ -85,8 +85,12 @@ const Wrapper = styled.div`
       margin-left: -600px;
     }
 
-    @media (max-width: 375px) {
-      transform: scale(0.45) translateX(-50px);
+    @media (max-width: 450px) {
+      transform: scale(0.85);
+      max-width: 100%;
+      margin-top: 500px;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 `;
